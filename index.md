@@ -1,3 +1,6 @@
+<!-- ![プロフィール画像](fde20fd0-private.png) -->
+<img src="fde20fd0-private.png" width="100">
+
 # About
 パソコン好き。自作したりプログラミング勉強したり。
 
