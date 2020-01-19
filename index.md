@@ -5,6 +5,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5HOIwyth3zE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<a class="twitter-timeline" data-width="400" data-height="600" data-theme="dark" href="https://twitter.com/itm_nlab?ref_src=twsrc%5Etfw">Tweets by itm_nlab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # About
 パソコン好き。自作したりプログラミング勉強したり。
 
