@@ -7,6 +7,8 @@
 
 <a class="twitter-timeline" data-width="400" data-height="600" data-theme="dark" href="https://twitter.com/itm_nlab?ref_src=twsrc%5Etfw">Tweets by itm_nlab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">ハウルの動く城みたいな<br><br>「ワクワクする」「九龍城みたい」　145人のマイクラユーザーが作り上げた“違法建築”がカオス <a href="https://t.co/hC7xgL6u3V">https://t.co/hC7xgL6u3V</a> <a href="https://twitter.com/itm_nlab?ref_src=twsrc%5Etfw">@itm_nlab</a> <a href="https://t.co/zeIoC99Lr2">pic.twitter.com/zeIoC99Lr2</a></p>&mdash; ねとらぼ (@itm_nlab) <a href="https://twitter.com/itm_nlab/status/1218805320916533249?ref_src=twsrc%5Etfw">January 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # About
 パソコン好き。自作したりプログラミング勉強したり。
 
