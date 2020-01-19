@@ -1,9 +1,9 @@
 <!-- ![プロフィール画像](fde20fd0-private.png) -->
 <img src="fde20fd0-private.png" width="100">
 
-<script type="application/javascript" src="https://embed.nicovideo.jp/watch/1500362884/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/1500362884">N予備校夏期講習2017CM</a></noscript>
+<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm36223228/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm36223228">ピアノでかぐや様 [ラブ・ドラマティック]</a></noscript>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aAdbPQfJ9DQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5HOIwyth3zE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # About
 パソコン好き。自作したりプログラミング勉強したり。
